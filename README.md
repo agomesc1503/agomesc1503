@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="perfil.jpg" width="150" alt="Logo AGE">
+<img width="3168" height="1344" alt="Gemini_Generated_Image_j745m5j745m5j745" src="https://github.com/user-attachments/assets/e1352324-62ba-4dd9-b72b-959d7808df37" />
   
   <h1>¡Hola! 👋</h1>
 </div>
